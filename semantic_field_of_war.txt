@@ -1,0 +1,11 @@
+What words refer to war?;war, warfare, fighting, civil war, conflict, armed conflict
+What words refer to fighting a war?;fight a war, wage war, be at war, declare war, make war, go on the warpath, fight, clash
+What words refer to a time when armies fight?;battle, campaign, engagement, fight, contest, clash, skirmish
+What words refer to the place where a war is fought?;battlefield, field of battle, theater of war, scene of the battle, front, front lines, flank, rear, war zone
+What words refer to strategy in war?;strategy, tactics, hunker down, keep up the pressure, overwhelm, concentrate your forces, form a line, hold the line, break the line, reform, rally, morale, maintain morale, military discipline, supply, supply lines, control the battle, battlefield control, reconnaissance, reconnoiter, intelligence, propaganda
+What words refer to an army moving?;deploy, maneuver, outmaneuver, flank, outflank, advance, charge, overrun, retreat, withdraw
+What words refer to a person who fights on your side?;ally
+What words refer to a person who wants to fight a war?;warmonger, militarist, hawk
+What words describe a person or country that wants to fight a war?;warlike
+What words describe countries that are at war?;warring
+What words refer to someone who is hurt or killed in a war?;casualty, missing in action
